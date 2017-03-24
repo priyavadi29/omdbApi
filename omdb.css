@@ -1,0 +1,43 @@
+img{
+   height: 250px;
+   width: 250px;
+   border-radius: 20px;
+}
+body{
+  background-image: url('img5.jpg');
+  /*background-color: gray;/*
+  background-repeat: no-repeat;
+    background-position: right top*/;
+}
+
+.navb{
+	text-align: center
+}
+
+img:hover{
+	opacity: 0.5;
+}
+
+#container{
+	font-size: 16px;
+	color: white;
+	font-weight: bold;
+	font-family: sans-serif;
+	margin-top: 80px;
+}
+
+label{
+	color: white;
+	font-size: 18px;
+	
+}
+
+
+h3{
+	font-size: 24px;
+	text-transform: uppercase;
+	color: white;
+	text-align: center;
+	
+
+}
